@@ -1,4 +1,5 @@
-# Tenderly CLI
+
+tenderly logout
 
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/Tenderly/tenderly-cli.svg?label=Latest%20Version)](https://github.com/Tenderly/tenderly-cli)
 
@@ -247,9 +248,8 @@ tenderly whoami
 
 The `logout` command disconnects your local Tenderly CLI from your [Tenderly Dashboard](https://dashboard.tenderly.co)
 
-```
-tenderly logout
-```
+`
+`tenderly logout'
 
 ### Global Flags
 
